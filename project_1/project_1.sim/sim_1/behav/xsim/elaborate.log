@@ -1,0 +1,8 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto bd1ddb3bdd8747dea191666f328ab2a6 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot project_tb_behav xil_defaultlib.project_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-122] project_reti_logiche remains a black-box since it has no binding entity [D:/project_1/project_1.srcs/sim_1/new/test1.vhd:60]
+Completed static elaboration
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel
